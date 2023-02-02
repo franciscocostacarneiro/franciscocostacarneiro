@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/carlosfab/template_portfolio/raw/master/banner.png" >
 </p>
 
-# Francisco Carneiro – [Ciências de Dados]
+# Francisco Carneiro – [Ciências de Dados, Análise de Dados e Robotic Process Automation]
 <sub>*Cientista de Dados em migração*</sub>
 
 Cursando Big Data e Inteligência Analítica, formado em Ciências contábeis, pós-graduado em Controladoria e Finanças, em migração de carreira de auditoria interna e externa, para a carreira de ciências de dados.
