@@ -19,13 +19,38 @@ Here are some ideas to get you started:
 # Francisco Carneiro – [Ciências de Dados, Análise de Dados e Robotic Process Automation]
 <sub>*Cientista de Dados em migração*</sub>
 
-Cursando Big Data e Inteligência Analítica, formado em Ciências contábeis, pós-graduado em Controladoria e Finanças, em migração de carreira de auditoria interna e externa, para a carreira de ciências de dados.
+Profissional de tecnologia e finanças. Sou pós-graduado em Data Analytics; graduado em Big Data e Inteligência analítica; pós-graduado em Controladoria e Finanças; e bacharel em Ciências Contábeis, com registro no CRC/DF 021815/0; Atuando como Analista de dados no time do Observatório Nacional da Indústria, da CNI, SESI, SENAI Departamentos Nacionais; e desenvolvedor de projetos de automações RPA, business intelligence, engenharia de dados e finanças como consultor.
 
-Como cientista de dados em desenvolvimento, possuo e combino habilidades analíticas com um conhecimento de negócios (Controladoria e finanças) proporcionado pela minha carreira de auditoria contábil, em clientes de diversos mercados e portes, como Coca-Cola, Caixa Econômica Federal e Totvs, bem como na formação na escola de negócios IBMEC.
+Compartilho algumas das minhas skills em finanças e tecnologia.
 
-Atualmente, desenvolvendo projetos independentes, com problemas de negócios reais, que um cientista de dados ou um analista de dados já soluciona.
+Construí uma carreira em contabilidade, auditoria e finanças, e então decidi complementar a essa experiência a atuação com mineração de dados e tech para a resolução de problemas de negócios. Nessa jornada em dados, conheci as carreiras de engenharia de dados, desenvolvedor RPA, desenvolvedor de Agentes de IA, Analytics e Data Scientist e, desde então venho desenvolvendo as skills voltadas a essa cultura data-driven.
 
-Minhas credenciais englobam atuação em uma das maiores empresas de serviços profissionais do mundo – PriceWaterHouseCoopers Auditores Independentes e, como cientista de dados, na empresa júnior DatAí, de consultoria em big data e ciências de dados.
+Quero destacar objetivamente algumas das minhas hard skills. Vamos lá?
+
+# Mineração de dados: extração, transformação e manipulação, análise e visualização de big data utilizando técnicas para transformar dados brutos em insights acionáveis, com abordagens descritiva, prescritiva e preditiva, com machine learning e visualização de dados utilizando:
+
+Linguagens - Python, PySpark, SQL DML/DQL/DDL, Dax e M para Power Query e VBA Excel;
+Engenharia de Dados: PySpark e Databricks;
+Versionamento: Github; 
+Banco de Dados: SQLite, MySQL e Postgre;
+Data Cloud: Azure
+Deploy: Heroku e Streamlit;
+Estatística: Descritiva (tendência central e dispersão);
+Machine Learning: classificação, regressão, clusterização e séries temporais;
+Dataviz: PowerBI, Streamlit e bibliotecas Python Seaborn, Matplotlib e Pyplot;
+Prototipação de templates: Figma; 
+Agilidade: Scrum; e
+Gestão ágil: Trello.
+
+Para saber mais sobre minha careira tech, visite meu portfólio: https://franciscocostacarneiro.github.io/portifolio/
+
+# Apresento agora algumas das skills em negócios e finanças:
+
+Atuo com consultorias financeira em projetos de diferentes modelos de negócios, inclusive com avaliação de carteira de treasure com renda variável.
+
+Na carreira de auditor sênior na PwC (Big four), atuei com revisão, exame e elaboração de demonstrações contábeis, avaliação de controles internos e todas as rotinas de procedimentos de auditoria baseadas em CPCs e demais instruções contábeis, o que me proporcionou conhecimento em rotinas contábeis, financeiras e operacionais, além de métricas de negócios em indústrias, serviços e instituições financeiras.
+
+Até logo!
 
 **Habilidades em:** 
 - 💻Python (Pandas e Numpy);
