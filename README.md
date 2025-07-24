@@ -54,9 +54,13 @@ Até logo!
 
 **Habilidades em:** 
 - 💻Python (Pandas e Numpy);
-- 💻Jupyter e PyCharm;
+- 💻PySpark;
+- 💻SQL;
+- 💻Databricks;
+- 💻VsCode;
 - 💻MySQL e Postgree;
 - 📁Data Analytics e Business Intelligence;
+- 📊Figma;
 - 📊DashBoard; 
 - 📊Power BI; e
 - 📙Statistical.
