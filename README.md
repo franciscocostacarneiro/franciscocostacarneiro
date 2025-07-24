@@ -27,7 +27,7 @@ Construí uma carreira em contabilidade, auditoria e finanças, e então decidi 
 
 Quero destacar objetivamente algumas das minhas hard skills. Vamos lá?
 
-# Mineração de dados: extração, transformação e manipulação, análise e visualização de big data utilizando técnicas para transformar dados brutos em insights acionáveis, com abordagens descritiva, prescritiva e preditiva, com machine learning e visualização de dados utilizando:
+Mineração de dados: extração, transformação e manipulação, análise e visualização de big data utilizando técnicas para transformar dados brutos em insights acionáveis, com abordagens descritiva, prescritiva e preditiva, com machine learning e visualização de dados utilizando:
 
 Linguagens - Python, PySpark, SQL DML/DQL/DDL, Dax e M para Power Query e VBA Excel;
 Engenharia de Dados: PySpark e Databricks;
@@ -44,7 +44,7 @@ Gestão ágil: Trello.
 
 Para saber mais sobre minha careira tech, visite meu portfólio: https://franciscocostacarneiro.github.io/portifolio/
 
-# Apresento agora algumas das skills em negócios e finanças:
+Apresento agora algumas das skills em negócios e finanças:
 
 Atuo com consultorias financeira em projetos de diferentes modelos de negócios, inclusive com avaliação de carteira de treasure com renda variável.
 
